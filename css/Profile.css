@@ -1,0 +1,50 @@
+body
+{
+    background-color: #3366ff;
+	text-align: center;
+}
+
+img.center
+{
+	margin: auto;
+}
+
+h1
+{
+	color: yellow;
+	font-size: 60pt;
+}
+
+h2
+{
+	color: yellow;
+	font-size: 30pt;
+}
+
+a
+{
+	color: yellow;
+    font-size: 20pt;
+}
+
+a.special
+{
+	color: red;
+    font-size: 20pt;
+}
+
+a:hover
+{
+	color: #3366ff;
+    font-size: 20pt;
+	background-color: yellow;
+}
+
+p
+{
+	color: yellow;
+	font-size: 20pt;
+	max-width: 800px;
+	margin: 0 auto;
+	font-family: arial
+}
